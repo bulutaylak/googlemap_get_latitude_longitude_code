@@ -4,7 +4,7 @@ Bu uygulama, kutucuğa yazdığınız herhangi bir adresin enlem ve boylam koord
 
 Bu uygulamayı google map ile ilgili projelerinizde  kullanabilirsiniz. Projeyi dahil ettikten sonra API KEY'inizi eklemeyi unutmayın. Herhangi bir lisans gerekmez, keyfinize bakın :)
 
-13. ve 53. Satırda "API_KEY_HERE" kodunuzu eklemeyi unutmayın.
+<b>13. ve 53. Satırda "API_KEY_HERE" kodunuzu eklemeyi unutmayın.</b>
 
 
 # googlemap_get_latitude_longitude
@@ -13,4 +13,5 @@ This app will fetch the latitude and longitude coordinates of any address you ty
 
 You can use this application in your projects related to google map. Don't forget to add your API KEY after including the project. No license required, have fun :)
 
-Don't forget to add your "API_KEY_HERE" on Line 13 and 53.
+<b>Don't forget to add your "API_KEY_HERE" on Line 13 and 53.</b>
+
