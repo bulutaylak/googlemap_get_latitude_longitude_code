@@ -16,12 +16,12 @@ You can use this application in your projects related to google map. Don't forge
 <b>Don't forget to add your "API_KEY_HERE" on Line 13 and 53.</b>
 
 
-<br><br><br><br>
+<br><br>
 <b>AÇILIŞ EKRANI / STARTING SCREEN</b>
-<img src="https://raw.githubusercontent.com/bulutaylak/googlemap_get_latitude_longitude_code/main/preview/map1.PNG?token=ADCNQJFDJGBRYWTHEMQBUVDAYCUFM" />
+<img src="https://webbulutu.net/wp-content/uploads/2021/06/map1.png" />
 
 <b>ADRES ARAMA KUTUSU / ADDRESS SEARCH BOX</b>
-<img src="https://raw.githubusercontent.com/bulutaylak/googlemap_get_latitude_longitude_code/main/preview/map2.PNG?token=ADCNQJCEAK6VLGPLC6YF4T3AYCUIW" />
+<img src="https://webbulutu.net/wp-content/uploads/2021/06/map2.png" />
 
 <b>İŞARETLEYİCİ İLE KONUM DEĞİŞİKLİĞİ / LOCATION CHANGE WITH MARKER</b>
-<img src="https://raw.githubusercontent.com/bulutaylak/googlemap_get_latitude_longitude_code/main/preview/map3.PNG?token=ADCNQJD6FLHR3XO55HALNOTAYCUJU" />
+<img src="https://webbulutu.net/wp-content/uploads/2021/06/map3.png" />
